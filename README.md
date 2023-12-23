@@ -66,9 +66,8 @@ insertion_sort(list_of_nums)
 ```
 
 ## Output:
-
-
-
+![Screenshot 2023-12-23 121753](https://github.com/KeerthanaaSaravanan/EX-08_PYTHON/assets/145742596/2ff8b0b4-c4ec-47c2-b7ae-b9c56566412e)
+![Screenshot 2023-12-23 121741](https://github.com/KeerthanaaSaravanan/EX-08_PYTHON/assets/145742596/6570ec83-9717-4d39-ba66-c85b1659843f)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
